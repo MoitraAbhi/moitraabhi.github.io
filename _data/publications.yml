@@ -10,17 +10,19 @@
   file: MINT_2024_ASPDAC.pdf
   code: https://github.com/Intelligent-Computing-Lab-Yale/
 
-- title: "Sharing Leaky-Integrate-and-Fire Neurons for Memory-Efficient Spiking Neural Networks"
+
+
+- title: "XPert: Peripheral Circuit & Neural Architecture Co-search for Area and Energy-efficient Xbar-based Computing"
   author: >
-    Youngeun, Yuhang Li, Abhishek Moitra, <b>Ruokai Yin</b>, Priyadarshini Panda
-  booktitle: Frontiers in Neuroscience
+    <b>Abhishek Moitra</b>, Abhiroop Bhattacharjee, Youngeun Kim, Priyadarshini Panda
+  booktitle: 60th Design and Automation Conference (DAC)
   year: 2023
   month: 
   address:
   publisher: IEEE
   conference: N
-  file: shared-lif.pdf
-  code: https://github.com/Intelligent-Computing-Lab-Yale/EfficientLIF-Net
+  file: https://arxiv.org/abs/2303.17646
+  code: https://github.com/Intelligent-Computing-Lab-Yale/XPert/
 
 - title: "Efficient Human Activity Recognition with Spatio-Temporal Spiking Neural Networks"
   author: >
